@@ -1,4 +1,4 @@
-# Mask-RCNN-on-Micro-bacterium-tuberculosis
+# Tuberculosis detection using Mask-RCNN
 
 This is an example of object detection on Micro bacterium tuberculosis using Mask-RCNN.
 
